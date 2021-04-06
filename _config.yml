@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qun Niu / Postdoctor"
 title_separator          : "-"
 name                     : &name "Qun Niu"
-description              : &description "Qun Niu is a postdoctor at Sun Yat-sen University, Guangzhou, P.R. China"
+description              : &description "Qun Niu is a postdoctor at Sun Yat-sen University, Guangzhou, China"
 url                      : https://niuqun.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "niuqun/niuqun.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Qun Niu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Qun Niu is a Postdoctor at Sun Yat-sen University"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=Lz0tn0MAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "niuqun"
   google_plus      :
   keybase          :
   instagram        :
