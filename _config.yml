@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Qun Niu"
 title_separator          : "-"
-name                     : &name "Qun Niu"
+name                     : &name ""
 description              : &description "Qun Niu is a postdoctor at Sun Yat-sen University, Guangzhou, China"
 url                      : https://niuqun.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
