@@ -32,7 +32,7 @@ Mobile and Ubiquitous Computing
 
 Indoor Localization and Navigation
 
-Applied Machine Learning
+Internet of Things
 
 
 
