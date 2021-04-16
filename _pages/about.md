@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Qun Niu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -29,6 +30,14 @@ Applied Machine Learning
 News
 ======
 [2020/06] We have a paper accepted to IMWUT/UbiComp 2020! 
+
+
+Contact
+======
+Email: niuq3 [at] mail [dot] sysu [dot] edu [dot] cn
+
+Address: School of Computer Science and Engineering, No. 132, Waihuan Road East, Higher Education Mega Center, Panyu, Guangzhou, China
+
 
 
 Site-wide configuration
