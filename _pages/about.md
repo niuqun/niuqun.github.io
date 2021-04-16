@@ -39,11 +39,11 @@ Internet of Things
 Selected Publications
 ======
 
-[1]  **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp), Vol. 4, No. 2, PP. 54:1-54:23, June 2020
+[1]  **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp), Vol. 4, No. 2, PP. 54:1-54:23, June 2020 (**CCF-A**)
 
-[2]  **Qun Niu**, Ning Liu*, Jianjun Huang, Yangze Luo, Suining He, Tao He, S.-H. Gary Chan, Xiaonan Luo. DeepNavi: A Deep Signal-Fusion Framework for Accurate and Applicable Indoor Navigation. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp), Vol. 3, No. 3, PP. 99:1-99:24, Sep. 2019
+[2]  **Qun Niu**, Ning Liu*, Jianjun Huang, Yangze Luo, Suining He, Tao He, S.-H. Gary Chan, Xiaonan Luo. DeepNavi: A Deep Signal-Fusion Framework for Accurate and Applicable Indoor Navigation. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp), Vol. 3, No. 3, PP. 99:1-99:24, Sep. 2019 (**CCF-A**)
 
-[3]  **Qun Niu**, Mingkuan Li, Suining He, Chengying Gao*, S. -H. Gary Chan, Xiaonan Luo. Resource-Efficient and Automated Image-Based Indoor Localization. ACM Trans. Sen. Netw. (TOSN), Vol. 15, No. 2, PP. 19:1-19:31, Feb. 2019
+[3]  **Qun Niu**, Mingkuan Li, Suining He, Chengying Gao*, S. -H. Gary Chan, Xiaonan Luo. Resource-Efficient and Automated Image-Based Indoor Localization. ACM Trans. Sen. Netw. (TOSN), Vol. 15, No. 2, PP. 19:1-19:31, Feb. 2019 (**CCF-B**)
 
 
 
