@@ -29,11 +29,11 @@ News
 Research Interest
 ======
 
-Mobile and Ubiquitous Computing
+Mobile Sensing and Internet of Things
 
 Indoor Localization and Navigation
 
-Internet of Things
+Video Analytics
 
 
 
