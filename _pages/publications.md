@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-[1] **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo\*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 4, No. 2, PP. 54:1-54:23, June 2020 [CCF-A] [PDF] [Code]
+[1] **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo\*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 4, No. 2, PP. 54:1-54:23, June 2020 [<font color="#dd0000">CCF-A</font>] [PDF] [Code]
 
 [2] **Qun Niu**, Ning Liu\*, Jianjun Huang, Yangze Luo, Suining He, Tao He, S.-H. Gary Chan, Xiaonan Luo. DeepNavi: A Deep Signal-Fusion Framework for Accurate and Applicable Indoor Navigation.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 3, No. 3, PP. 99:1-99:24, Sep. 2019 [CCF-A] [PDF]
 
