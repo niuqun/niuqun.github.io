@@ -25,12 +25,12 @@ author_profile: true
 ## Conferences
 
 [1] Kunxin Zhu, Yongxin Hu, Ning Liu, **Qun Niu**\*. Fusing Directional and Omnidirectional Wi-Fi Antennas for Accurate Indoor Localization.
-*International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, Nanjing, China, pp. 78-91, 25-27 June 2021 (**CCF-C**) [[PDF] (https://link.springer.com/chapter/10.1007/978-3-030-85928-2_7)]
+*International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, Nanjing, China, pp. 78-91, 25-27 June 2021 (**CCF-C**) [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-85928-2_7)]
 
-[2] Kaishi Gao, **Qun Niu**, Haoquan You, Chengying Gao\*. Self-Bootstrapping Pedestrian Detection in Downward-Viewing Fisheye Cameras Using Pseudo-Labeling.  *2020 IEEE International Conference on Multimedia and Expo (ICME)*, London, United Kingdom, pp. 1-6, 6-10 July, 2020  (**<font color="#dd0000">CCF-B</font>**) [PDF]
+[2] Kaishi Gao, **Qun Niu**, Haoquan You, Chengying Gao\*. Self-Bootstrapping Pedestrian Detection in Downward-Viewing Fisheye Cameras Using Pseudo-Labeling.  *2020 IEEE International Conference on Multimedia and Expo (ICME)*, London, United Kingdom, pp. 1-6, 6-10 July, 2020  (**<font color="#dd0000">CCF-B</font>**) [[PDF](https://ieeexplore.ieee.org/abstract/document/9102923)]
 
-[3] Tao He, **Qun Niu**, Suining He, Ning Liu\*. Indoor Localization with Spatial and Temporal Representations of Signal Sequences.  *2019 IEEE Global Communications Conference (GLOBECOM)*, Waikoloa, USA, pp. 1-7, 9-13 Dec. 2019 (**CCF-C**) [PDF]
+[3] Tao He, **Qun Niu**, Suining He, Ning Liu\*. Indoor Localization with Spatial and Temporal Representations of Signal Sequences.  *2019 IEEE Global Communications Conference (GLOBECOM)*, Waikoloa, USA, pp. 1-7, 9-13 Dec. 2019 (**CCF-C**) [[PDF](https://ieeexplore.ieee.org/abstract/document/9014159)]
 
-[4] Ning Liu, Yongchao Long, Changqing Zou, **Qun Niu**, Li Pan, Hefeng Wu\*. ADCrowdNet: An Attention-Injective Deformable Convolutional Network for Crowd Understanding.  *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Long Beach, USA, pp. 3220-3229, 15-20 June, 2019 (**<font color="#dd0000">CCF-A</font>**) [PDF]
+[4] Ning Liu, Yongchao Long, Changqing Zou, **Qun Niu**, Li Pan, Hefeng Wu\*. ADCrowdNet: An Attention-Injective Deformable Convolutional Network for Crowd Understanding.  *2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, Long Beach, USA, pp. 3220-3229, 15-20 June, 2019 (**<font color="#dd0000">CCF-A</font>**) [[PDF](https://ieeexplore.ieee.org/document/8953548)]
 
-[5] **Qun Niu**, Ying Nie, Suining He, Ning Liu, Xiaonan Luo\*. RecNet: A Convolutional Network for Efficient Radiomap Reconstruction.  *2018 IEEE International Conference on Communications (ICC)*, Kansas City, USA, pp. 1-7, 20-24 May, 2018 (**CCF-C**) [PDF]
+[5] **Qun Niu**, Ying Nie, Suining He, Ning Liu, Xiaonan Luo\*. RecNet: A Convolutional Network for Efficient Radiomap Reconstruction.  *2018 IEEE International Conference on Communications (ICC)*, Kansas City, USA, pp. 1-7, 20-24 May, 2018 (**CCF-C**) [[PDF](https://ieeexplore.ieee.org/document/8422971)]
