@@ -25,7 +25,7 @@ author_profile: true
 ## Conferences
 
 [1] Kunxin Zhu, Yongxin Hu, Ning Liu, **Qun Niu**\*. Fusing Directional and Omnidirectional Wi-Fi Antennas for Accurate Indoor Localization.
-*International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, Nanjing, China, pp. 78-91, 25-27 June 2021 (**CCF-C**) [PDF]
+*International Conference on Wireless Algorithms, Systems, and Applications (WASA)*, Nanjing, China, pp. 78-91, 25-27 June 2021 (**CCF-C**) [[PDF] (https://link.springer.com/chapter/10.1007/978-3-030-85928-2_7)]
 
 [2] Kaishi Gao, **Qun Niu**, Haoquan You, Chengying Gao\*. Self-Bootstrapping Pedestrian Detection in Downward-Viewing Fisheye Cameras Using Pseudo-Labeling.  *2020 IEEE International Conference on Multimedia and Expo (ICME)*, London, United Kingdom, pp. 1-6, 6-10 July, 2020  (**<font color="#dd0000">CCF-B</font>**) [PDF]
 
