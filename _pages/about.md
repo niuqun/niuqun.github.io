@@ -21,6 +21,8 @@ He received his Ph.D. degree in Computer Science and Engineering from School of 
 News
 ======
 
+[2021/09] We have made the source code for *MAIL (UbiComp 2020)* publicly available!
+
 [2021/08] We have a paper accepted to IEEE Transactions on Vehicular Technology!
 
 [2021/05] We have a paper accepted to WASA 2021!
