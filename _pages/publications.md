@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-[1] Ning Liu, Tao He, Suining He, **Qun Niu**\*. Indoor Localization with Adaptive Signal Sequence Representations. *IEEE Transactions on Vehicular Technology (TVT)*. September 2021. [[PDF](https://ieeexplore.ieee.org/document/9541001)]
+[1] Ning Liu, Tao He, Suining He, **Qun Niu**\*. Indoor Localization with Adaptive Signal Sequence Representations. *IEEE Transactions on Vehicular Technology (TVT)*, Vol. 70, No. 11, PP. 11678 - 11694, Nov. 2021. [[PDF](https://ieeexplore.ieee.org/document/9541001)]
 
 [2] **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo\*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 4, No. 2, PP. 54:1-54:23, June 2020 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3397335)] [[Code](https://github.com/onewalnut/MAIL)]
 
