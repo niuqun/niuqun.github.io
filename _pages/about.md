@@ -21,13 +21,17 @@ He received his Ph.D. degree in Computer Science and Engineering from School of 
 News
 ======
 
-[2022/12] We have one paper accepted to ACM Transactions on Sensor Networks!
+[2022/12] We have one paper accepted to *ACM Transactions on Sensor Networks*!
 
-[2021/08] We have a paper accepted to IEEE Transactions on Vehicular Technology!
+[2022/10] We have a paper accepted to *IMWUT/UbiComp 2023*!
 
-[2021/05] We have a paper accepted to WASA 2021!
+[2022/04] We have a paper accepted to *ICCCN 2022*!
 
-[2020/06] We have a paper accepted to IMWUT/UbiComp 2020! 
+[2021/08] We have a paper accepted to *IEEE Transactions on Vehicular Technology*!
+
+[2021/05] We have a paper accepted to *WASA 2021*!
+
+[2020/06] We have a paper accepted to *IMWUT/UbiComp 2020*! 
 
 
 
