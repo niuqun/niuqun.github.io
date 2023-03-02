@@ -8,19 +8,21 @@ author_profile: true
 
 ## Journals
 
-[1] Tao He, **Qun Niu**, Ning Liu. GC-Loc: A Graph Attention Based Framework for Collaborative Indoor Localization Using Infrastructure-free Signals.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 6, No. 4, PP. 165:1-165:27, Jan. 2023 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3569495)]
+[1] **Qun Niu**, Kunxin Zhu, Suining He, Shaoqi Cen, S.-H. Gary Chan, Ning Liu*, VILL: Towards Efficient and Automatic Visual Landmark Labeling. *ACM Transactions on Sensor Networks (TOSN)*, [**<font color="#dd0000">CCF-B</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3580497)]
 
-[2] Ning Liu, Tao He, Suining He, **Qun Niu**\*. Indoor Localization with Adaptive Signal Sequence Representations. *IEEE Transactions on Vehicular Technology (TVT)*, Vol. 70, No. 11, PP. 11678 - 11694, Nov. 2021. [[PDF](https://ieeexplore.ieee.org/document/9541001)]
+[2] Tao He, **Qun Niu**, Ning Liu. GC-Loc: A Graph Attention Based Framework for Collaborative Indoor Localization Using Infrastructure-free Signals.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 6, No. 4, PP. 165:1-165:27, Jan. 2023 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3569495)]
 
-[3] **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo\*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 4, No. 2, PP. 54:1-54:23, June 2020 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3397335)] [[Code](https://github.com/onewalnut/MAIL)]
+[3] Ning Liu, Tao He, Suining He, **Qun Niu**\*. Indoor Localization with Adaptive Signal Sequence Representations. *IEEE Transactions on Vehicular Technology (TVT)*, Vol. 70, No. 11, PP. 11678 - 11694, Nov. 2021. [[PDF](https://ieeexplore.ieee.org/document/9541001)]
 
-[4] **Qun Niu**, Ning Liu\*, Jianjun Huang, Yangze Luo, Suining He, Tao He, S.-H. Gary Chan, Xiaonan Luo. DeepNavi: A Deep Signal-Fusion Framework for Accurate and Applicable Indoor Navigation.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 3, No. 3, PP. 99:1-99:24, Sep. 2019 [**<font color="#dd0000">CCF-A</font>**] ([PDF](https://dl.acm.org/doi/abs/10.1145/3351257))
+[4] **Qun Niu**, Tao He, Ning Liu, Suining He, Xiaonan Luo\*, Fan Zhou. MAIL: Multi-Scale Attention-Guided Indoor Localization Using Geomagnetic Sequences.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 4, No. 2, PP. 54:1-54:23, June 2020 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3397335)] [[Code](https://github.com/onewalnut/MAIL)]
 
-[5] **Qun Niu**, Mingkuan Li, Suining He, Chengying Gao\*, S. -H. Gary Chan, Xiaonan Luo. Resource-Efficient and Automated Image-Based Indoor Localization.  *ACM Transactions on Sensor Networks (TOSN)*, Vol. 15, No. 2, PP. 19:1-19:31, Feb. 2019 [**<font color="#dd0000">CCF-B</font>**, IF: 2.469] [[PDF](https://dl.acm.org/doi/10.1145/3284555)]
+[5] **Qun Niu**, Ning Liu\*, Jianjun Huang, Yangze Luo, Suining He, Tao He, S.-H. Gary Chan, Xiaonan Luo. DeepNavi: A Deep Signal-Fusion Framework for Accurate and Applicable Indoor Navigation.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 3, No. 3, PP. 99:1-99:24, Sep. 2019 [**<font color="#dd0000">CCF-A</font>**] ([PDF](https://dl.acm.org/doi/abs/10.1145/3351257))
 
-[6] Mingkuan Li, Ning Liu\*, **Qun Niu**, Chang Liu, S.-H. Gary Chan, Chengying Gao. SweepLoc: Automatic Video-Based Indoor Localization by Camera Sweeping.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 2, No. 3, PP. 120:1-120:25, Sep. 2018 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3264930)]
+[6] **Qun Niu**, Mingkuan Li, Suining He, Chengying Gao\*, S. -H. Gary Chan, Xiaonan Luo. Resource-Efficient and Automated Image-Based Indoor Localization.  *ACM Transactions on Sensor Networks (TOSN)*, Vol. 15, No. 2, PP. 19:1-19:31, Feb. 2019 [**<font color="#dd0000">CCF-B</font>**, IF: 2.469] [[PDF](https://dl.acm.org/doi/10.1145/3284555)]
 
-[7] **Qun Niu**, Hefeng Wu, Chengying Gao\*, Xiaonan Luo. Laser-Based Bidirectional Pedestrian Counting via Height Map Guided Regression and Voting.  *Signal, Image and Video Processing (SIViP)*, Vol. 11, PP. 897–904, July 2017 [**SCI**] [[PDF](https://link.springer.com/article/10.1007/s11760-016-1037-8)]
+[7] Mingkuan Li, Ning Liu\*, **Qun Niu**, Chang Liu, S.-H. Gary Chan, Chengying Gao. SweepLoc: Automatic Video-Based Indoor Localization by Camera Sweeping.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 2, No. 3, PP. 120:1-120:25, Sep. 2018 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3264930)]
+
+[8] **Qun Niu**, Hefeng Wu, Chengying Gao\*, Xiaonan Luo. Laser-Based Bidirectional Pedestrian Counting via Height Map Guided Regression and Voting.  *Signal, Image and Video Processing (SIViP)*, Vol. 11, PP. 897–904, July 2017 [**SCI**] [[PDF](https://link.springer.com/article/10.1007/s11760-016-1037-8)]
 
 
 
