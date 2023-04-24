@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journals
 
-[1] **Qun Niu**, Kunxin Zhu, Suining He, Shaoqi Cen, S.-H. Gary Chan, Ning Liu*, VILL: Towards Efficient and Automatic Visual Landmark Labeling. *ACM Transactions on Sensor Networks (TOSN)*, [**<font color="#dd0000">CCF-B</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3580497)]
+[1] **Qun Niu**, Kunxin Zhu, Suining He, Shaoqi Cen, S.-H. Gary Chan, Ning Liu*, VILL: Towards Efficient and Automatic Visual Landmark Labeling. *ACM Transactions on Sensor Networks (TOSN)*, Vol. 19, No. 4, PP. 74:1-74:25, April 2023 [**<font color="#dd0000">CCF-B</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3580497)]
 
 [2] Tao He, **Qun Niu**, Ning Liu. GC-Loc: A Graph Attention Based Framework for Collaborative Indoor Localization Using Infrastructure-free Signals.  *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 6, No. 4, PP. 165:1-165:27, Jan. 2023 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3569495)]
 
