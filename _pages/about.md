@@ -21,6 +21,8 @@ He received his Ph.D. degree in Computer Science and Engineering from School of 
 News
 ======
 
+[2026/01] We have one paper accepted to *IMWUT/UbiComp 2026*!
+
 [2022/12] We have one paper accepted to *ACM Transactions on Sensor Networks*!
 
 [2022/10] We have a paper accepted to *IMWUT/UbiComp 2023*!
@@ -39,11 +41,11 @@ News
 Research Interest
 ======
 
-Mobile Sensing and Internet of Things
+Mobile Health
+
+Applied Machine Learning
 
 Indoor Localization and Navigation
-
-Video Analytics
 
 
 
