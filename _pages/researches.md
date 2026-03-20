@@ -5,6 +5,12 @@ permalink: /researches/
 author_profile: true
 ---
 
+## Mobile Health (2025 to present)
+
+**Gait Analytics**
+
+**Bio-Informatics**
+
 
 ## Indoor Localization and Navigation (2015 to present)
 
@@ -16,9 +22,3 @@ author_profile: true
 
 **Survey Reduction for Wi-Fi Radiomap**
 
-
-## Video Analytics (2018 to present)
-
-**Pedestrian Detection**
-
-**Crowd Counting**
