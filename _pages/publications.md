@@ -10,19 +10,19 @@ author_profile: true
 
 [1] Ning Liu, Rui Fu, Hua-Bao Ling, **Qun Niu**\*. GRETE: Enhancing Geomagnetic Indoor Localization with Relative Trajectory Encoding. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 10, No. 1, PP. 13:1-13:29, March 2026. [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://doi.org/10.1145/3789681)]
 
-[2] Weina Jiang, Shaoqi Cen, Lin Shi, **Qun Niu**, Ning Liu*. Dual-Robust Radio Map Generation and Updating with Multi-scale Feature Fusion for Indoor Localization. *Expert Systems with Applications*, Vol. 299, No. Part C, March 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417425036930)]
+[2] Weina Jiang, Shaoqi Cen, Lin Shi, **Qun Niu**, Ning Liu\*. Dual-Robust Radio Map Generation and Updating with Multi-scale Feature Fusion for Indoor Localization. *Expert Systems with Applications*, Vol. 299, No. Part C, March 2026. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417425036930)]
 
-[3] **Qun Niu**, Tao Chen, Xing Zhang, Yifan Wang, Ning Liu*. LLM-Loc: Bootstrap Single-Image Indoor Localization With Large Language Model. *Expert Systems with Applications*, Vol. 291, October 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417425019876)]
+[3] **Qun Niu**, Tao Chen, Xing Zhang, Yifan Wang, Ning Liu\*. LLM-Loc: Bootstrap Single-Image Indoor Localization With Large Language Model. *Expert Systems with Applications*, Vol. 291, October 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417425019876)]
      
-[4] Ning Liu, Gezhi Peng, Hua-Bao Ling, **Qun Niu**, Tao He*. Spatio–Temporal Constrained Geomagnetic Indoor Localization With Arbitrary Walking Speed. *IEEE Internet of Things Journal*, Vol. 12, No. 12, PP. 21740-21756, March 2025. [[PDF](https://ieeexplore.ieee.org/document/10922716)]
+[4] Ning Liu, Gezhi Peng, Hua-Bao Ling, **Qun Niu**, Tao He\*. Spatio–Temporal Constrained Geomagnetic Indoor Localization With Arbitrary Walking Speed. *IEEE Internet of Things Journal*, Vol. 12, No. 12, PP. 21740-21756, March 2025. [[PDF](https://ieeexplore.ieee.org/document/10922716)]
      
 [5] Zhiwei Chen, Sisi Liu, **Qun Niu**\*. Black-Box Backdoor Attack With Everyday Physical Object in Mobile Crowdsourcing. *Expert Systems with Applications*, Vol. 265, March 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417424027593)]
 
-[6] Weina Jiang, Lin Shi, **Qun Niu**, Ning Liu*. Fast Radio Map Construction with Domain Disentangled Learning for Wireless Localization. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 7, No. 3, PP. 101:1-101:27, September 2023. [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://doi.org/10.1145/3610922)]
+[6] Weina Jiang, Lin Shi, **Qun Niu**, Ning Liu\*. Fast Radio Map Construction with Domain Disentangled Learning for Wireless Localization. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 7, No. 3, PP. 101:1-101:27, September 2023. [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://doi.org/10.1145/3610922)]
  
-[7] Weina Jiang, **Qun Niu**, Suining He, Ning Liu*. Adaptive radio map reconstruction via adversarial wireless fingerprint learning. *Neural Computing and Applications* , Vol. 35, No. 25, 18585--18602, June 2023. [[PDF](https://link.springer.com/article/10.1007/s00521-023-08684-w)]
+[7] Weina Jiang, **Qun Niu**, Suining He, Ning Liu\*. Adaptive radio map reconstruction via adversarial wireless fingerprint learning. *Neural Computing and Applications* , Vol. 35, No. 25, 18585--18602, June 2023. [[PDF](https://link.springer.com/article/10.1007/s00521-023-08684-w)]
 
-[8] **Qun Niu**, Kunxin Zhu, Suining He, Shaoqi Cen, S.-H. Gary Chan, Ning Liu*, VILL: Towards Efficient and Automatic Visual Landmark Labeling. *ACM Transactions on Sensor Networks (TOSN)*, Vol. 19, No. 4, PP. 74:1-74:25, April 2023 [**<font color="#dd0000">CCF-B</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3580497)]
+[8] **Qun Niu**, Kunxin Zhu, Suining He, Shaoqi Cen, S.-H. Gary Chan, Ning Liu\*, VILL: Towards Efficient and Automatic Visual Landmark Labeling. *ACM Transactions on Sensor Networks (TOSN)*, Vol. 19, No. 4, PP. 74:1-74:25, April 2023 [**<font color="#dd0000">CCF-B</font>**] [[PDF](https://dl.acm.org/doi/10.1145/3580497)]
 
 [9] Tao He, **Qun Niu**, Ning Liu. GC-Loc: A Graph Attention Based Framework for Collaborative Indoor Localization Using Infrastructure-free Signals. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT/UbiComp)*, Vol. 6, No. 4, PP. 165:1-165:27, Jan. 2023 [**<font color="#dd0000">CCF-A</font>**] [[PDF](https://dl.acm.org/doi/abs/10.1145/3569495)]
 
@@ -46,9 +46,9 @@ author_profile: true
 
 [2] Zhiwei Chen, **Qun Niu**\*. Position-Independent and Stealthy Backdoor Attack of IMU Systems.  *2024 IEEE Global Communication Conference*, Cape Town, South Africa, pp. 3371-3376, 08-12 December 2024. (CCF-C) [[PDF](https://ieeexplore.ieee.org/document/10901755)]
 
-[3] Shaoqi Cen, Weina Jiang, **Qun Niu**, Ning Liu*. FDAP: Efficient Radio Map Reconstruction Using Sparse Signals.  *2023 IEEE Global Communications Conference*, Kuala Lumpur, Malaysia, pp. 5913-5918, 04-08 December 2023. (CCF-C) [[PDF](https://ieeexplore.ieee.org/document/10436813)]
+[3] Shaoqi Cen, Weina Jiang, **Qun Niu**, Ning Liu\*. FDAP: Efficient Radio Map Reconstruction Using Sparse Signals.  *2023 IEEE Global Communications Conference*, Kuala Lumpur, Malaysia, pp. 5913-5918, 04-08 December 2023. (CCF-C) [[PDF](https://ieeexplore.ieee.org/document/10436813)]
 
-[4] Mengya Kou, Tao He, **Qun Niu**, Ning Liu*. Deep Inertial Odometry Using Hierarchical Temporal Features of IMU Sequences.   *2023 IEEE Global Communications Conference*, Kuala Lumpur, Malaysia, pp. 2808-2813, 04-08 December 2023. (CCF-C) [[PDF](https://ieeexplore.ieee.org/document/10437457)]
+[4] Mengya Kou, Tao He, **Qun Niu**, Ning Liu\*. Deep Inertial Odometry Using Hierarchical Temporal Features of IMU Sequences.   *2023 IEEE Global Communications Conference*, Kuala Lumpur, Malaysia, pp. 2808-2813, 04-08 December 2023. (CCF-C) [[PDF](https://ieeexplore.ieee.org/document/10437457)]
 
 [5] Hui Zhuang, Tao He, **Qun Niu**, Ning Liu\*, Efficient Indoor Localization with Multiple Consecutive Geomagnetic Sequences. *2022 International Conference on Computer Communications and Networks (ICCCN)*, Honolulu, USA, pp. 1-9, 25-28 July 2022 (CCF-C) [[PDF](https://ieeexplore.ieee.org/abstract/document/9868904)]
 
